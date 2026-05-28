@@ -18,7 +18,7 @@ const About = () => {
           ease: 'easeOut'
         }}>
             <div className="rounded-2xl overflow-hidden aspect-[4/3]">
-              <img class="w-full h-full object-cover" alt="Modern office with creative team working on computers" src="https://horizons-cdn.hostinger.com/77e6c737-0d8c-42cb-9119-d1bb13457c16/chatgpt-image-jan-23-2026-07_36_20-pm-FcWhW.png" />
+              <img className="w-full h-full object-cover" alt="Modern office with creative team working on computers" src="/application.png" />
             </div>
           </motion.div>
 
@@ -44,12 +44,11 @@ const About = () => {
                 <h3 className="text-2xl font-bold text-white mb-3">BrandSetu - powered by INFLUENCIFY®
               </h3>
                 <p className="text-lg text-gray-400">BrandSetu is built for brands that want clarity, control, and results from influencer marketing.
-We connect you with creators who align with "your brand values, audience, and growth goals. We help brands run targeted, performance-driven campaigns with creators who genuinely influence their audience"
-              </p>
+We connect you with creators who align with "your brand values, audience, and growth goals. We help brands run targeted, performance-driven campaigns with creators who genuinely influence their audience.</p>
               </div>
               <div>
                 <h3 className="text-2xl font-bold text-white mb-3">CollabSetu &gt;&gt;LAUNCHING SOON&lt;&lt;</h3>
-                <p className="text-lg text-gray-400">"We’re building a structured creator-to-creator collaboration system to ensure fair growth, real reach, and long-term opportunities. Early members will get exclusive access & launch offers."</p>
+                <p className="text-lg text-gray-400">"We're building a structured creator-to-creator collaboration system to ensure fair growth, real reach, and long-term opportunities. Early members get lifetime benefits.</p>
               </div>
             </div>
           </motion.div>
@@ -70,7 +69,7 @@ We connect you with creators who align with "your brand values, audience, and gr
           ease: 'easeOut'
         }} className="lg:order-last">
             <div className="rounded-2xl overflow-hidden aspect-[4/3]">
-              <img class="w-full h-full object-cover" alt="Diverse team collaborating around a table with laptops and notes" src="https://horizons-cdn.hostinger.com/77e6c737-0d8c-42cb-9119-d1bb13457c16/chatgpt-image-jan-23-2026-07_50_14-pm-Mnaph.png" />
+              <img className="w-full h-full object-cover" alt="Diverse team collaborating around a table with laptops and notes" src="/brand-image.png" />
             </div>
           </motion.div>
 
@@ -94,11 +93,11 @@ We connect you with creators who align with "your brand values, audience, and gr
             <div className="space-y-8">
               <div>
                 <h3 className="text-2xl font-bold text-white mb-3">For Brands (Across All India & All Categories).</h3>
-                <p className="text-lg text-gray-400">Through BrandSetu, we work with all types of brands, from local stores to national companies, across every state, every sector, and every product category in India. We Serve Brands From: Local shops, showrooms & mall outlets Fashion, garments, sarees, suits, women & girls wear Makeup, beauty, skincare & personal care brands Fast food, cafes, restaurants & food startups Grocery, FMCG & daily-need products Electronics, tech items, phone accessories Hardware, software & digital service companies Home décor, decoration, photo frames & gift items Health, wellness, medical & fitness products New startups, D2C brands & established companies Offline sellers, online sellers & pan-India businesses What We Do for Brands: Influencer marketing & brand collaborations Paid promotions & launch campaigns Honest, customer-friendly product reviews Rating-based creator reviews Video content, reels & short-form promotions Local + regional + national campaign execution We don’t push fake hype. "We focus on real creators, real audiences, and real results."</p>
+                <p className="text-lg text-gray-400">Through BrandSetu, we work with all types of brands, from local stores to national companies, across every state, every sector, and every product category.</p>
               </div>
               <div>
                 <h3 className="text-2xl font-bold text-white mb-3">For Creators (Influencers).</h3>
-                <p className="text-lg text-gray-400">INFLUENCIFY® is not just a collaboration platform — it’s a complete creator growth roadmap.
+                <p className="text-lg text-gray-400">INFLUENCIFY® is not just a collaboration platform — it's a complete creator growth roadmap.
 
 We guide creators:
 
@@ -122,7 +121,7 @@ Skill-building for content, consistency & quality
 
 Long-term creator credibility, not short-term fame
 
-Whether you’re:
+Whether you're:
 
 A small creator,
 
